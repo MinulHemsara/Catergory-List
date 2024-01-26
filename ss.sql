@@ -1,0 +1,1 @@
+﻿INSERT INTO Categories (Name, DisplayOrder,CreatedateTime)VALUES ('nokia', 1,GETDATE())
